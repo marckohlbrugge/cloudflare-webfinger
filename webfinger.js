@@ -1,5 +1,5 @@
 const MAPPING = new Map([
-  ['ps@pstadler.dev', 'ps@infosec.exchange']
+  ['marc@marckohlbrugge.com', 'marckohlbrugge@mas.to']
 ])
 
 async function handleRequest(request) {
